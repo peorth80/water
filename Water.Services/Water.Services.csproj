@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Water.DAL\Water.DAL.csproj" />
+    <ProjectReference Include="..\Water.Models\Water.Models.csproj" />
+  </ItemGroup>
+
+</Project>

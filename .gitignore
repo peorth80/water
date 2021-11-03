@@ -1,0 +1,7 @@
+Water.web/node_modules 
+Water.API/.vs
+**/bin/*
+**/obj/*
+.vs/Water.API/v16
+.vs/Water.API/config
+.vs/Water.API/DesignTimeBuild
